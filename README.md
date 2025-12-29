@@ -38,6 +38,9 @@ $$
 
 Ensure you have Python 3.10+ and a C++ compiler compatible with the Apache license standards.
 
+<img width="906" height="678" alt="Screenshot 2025-12-29 at 1 31 41 PM" src="https://github.com/user-attachments/assets/2710e560-723a-4080-b870-6f7a7f4e5fdd" />
+
+
 ```bash
 git clone [https://github.com/chasekbryan/quantum-bio-set.git](https://github.com/chasekbryan/quantum-bio-set.git)
 cd quantum-bio-set
